@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website-bs/static/css/main.e6c13ad2.css",
+    "main.js": "/react-portfolio-website-bs/static/js/main.62e0e41e.js",
+    "static/js/787.f7f2651c.chunk.js": "/react-portfolio-website-bs/static/js/787.f7f2651c.chunk.js",
+    "static/media/SoemCare.png": "/react-portfolio-website-bs/static/media/SoemCare.ca5b3a83845abe46ccb3.png",
+    "static/media/MUFC.png": "/react-portfolio-website-bs/static/media/MUFC.0b8050efa6c09e26218b.png",
+    "static/media/mufc-js.png": "/react-portfolio-website-bs/static/media/mufc-js.c49fd2859a31ed0652cf.png",
+    "static/media/Project3.png": "/react-portfolio-website-bs/static/media/Project3.7d05f4dc62c80af4ab5c.png",
+    "static/media/RJ-logo.png": "/react-portfolio-website-bs/static/media/RJ-logo.f8df6efdef0407d6b897.png",
+    "static/media/profile_pic_square.jpg": "/react-portfolio-website-bs/static/media/profile_pic_square.9eaf4aca8e7a03e55b62.jpg",
+    "index.html": "/react-portfolio-website-bs/index.html",
+    "main.e6c13ad2.css.map": "/react-portfolio-website-bs/static/css/main.e6c13ad2.css.map",
+    "main.62e0e41e.js.map": "/react-portfolio-website-bs/static/js/main.62e0e41e.js.map",
+    "787.f7f2651c.chunk.js.map": "/react-portfolio-website-bs/static/js/787.f7f2651c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62e0e41e.js"
+  ]
+}
